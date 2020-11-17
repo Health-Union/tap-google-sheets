@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.5-hu
+  * Added compatibility for numeric columns with pipelinewise
+
 ## 1.0.4
   * Return an empty list when we retrieve cells that return no values [#17](https://github.com/singer-io/tap-google-sheets/pull/17)
 
