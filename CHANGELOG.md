@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.6-hu
+  * Added supportsAllDrives param to google drive API calls to handle shared drives in addition to personal drives
+
 ## 1.0.5-hu
   * Added compatibility for numeric columns with pipelinewise
 
